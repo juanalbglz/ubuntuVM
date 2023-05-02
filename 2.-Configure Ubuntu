@@ -1,0 +1,11 @@
+```
+sudo apt install gcc make perl
+```
+
+from VBox GAS CD
+
+```
+./autorun.sh
+```
+
+reboot
